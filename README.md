@@ -1,2 +1,2 @@
-# EkattorQA
-EkattorQA: An RAG based Question Answering System applied in Bangladeshi Historical Context.
+# ItihashQA
+ItihashQA An RAG-based Question Answering System Applied in Bangladeshi Historical Context.
