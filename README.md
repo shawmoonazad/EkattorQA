@@ -1,8 +1,7 @@
 # Towards Accurate AI-Driven ItihashQA: A Conversational Question Answering System Applied in Bangladeshi Historical Context
 
 * The code is the official implementation of the work "Towards Accurate AI-Driven ItihashQA: A Conversational Question Answering System Applied in Bangladeshi Historical Context".
-* Authors of the work: Arabindo Das Himu, Md Shawmoon Azad, Raiyan Rahman, Mohammed Rakibul Hasan, and Sifat Momen.
-* Corresponding Author: Sifat Momen.
+* Authors of the work: Arabindo Das Himu, Md Shawmoon Azad, Raiyan Rahman, and Mohammed Rakibul Hasan
 
 ### Idea
 
