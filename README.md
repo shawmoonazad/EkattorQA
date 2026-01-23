@@ -4,9 +4,8 @@
 * Authors of the work: Arabindo Das Himu, Md Shawmoon Azad, Raiyan Rahman, and Mohammed Rakibul Hasan
 
 ### Idea
-<img width="1866" height="771" alt="methodology" src="https://github.com/user-attachments/assets/e32624ce-8e01-4677-86f1-6a04f4601d84" />
-
 The research introduces **ItihashQA**, a publicly available, conversational AI-driven retrieval question-answering system (QA) specifically trained on the historical context of Bangladesh.
+<img width="1866" height="771" alt="methodology" src="https://github.com/user-attachments/assets/e32624ce-8e01-4677-86f1-6a04f4601d84" />
 
 *   **Goal**: To develop an LLM system that is both reliable and accurate for the sensitive topic of history, addressing challenges like hallucinations and misinformation faced by other Large Language Models (LLMs).
 *   **Approach**: ItihashQA combines the open-source **Stable Vicuña LLM** with expert-verified historical datasets. It is built upon the **Retrieval-Augmented Generation (RAG)** approach. The system integrates the **E5 embedding model** with the Stable Vicuña LLM to generate precise and context-aware responses.
