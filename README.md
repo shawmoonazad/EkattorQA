@@ -4,6 +4,7 @@
 * Authors of the work: Arabindo Das Himu, Md Shawmoon Azad, Raiyan Rahman, and Mohammed Rakibul Hasan
 
 ### Idea
+<img width="1866" height="771" alt="methodology" src="https://github.com/user-attachments/assets/e32624ce-8e01-4677-86f1-6a04f4601d84" />
 
 The research introduces **ItihashQA**, a publicly available, conversational AI-driven retrieval question-answering system (QA) specifically trained on the historical context of Bangladesh.
 
