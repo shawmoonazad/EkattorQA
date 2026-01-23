@@ -25,20 +25,4 @@ The research introduces **ItihashQA**, a publicly available, conversational AI-d
 
 ### Contact Authors
 
-*   Md Shawmoon Azad: shawmoonazad56@gmail.com
-*   Sifat Momen (Corresponding Author): sifat.momen@northsouth.edu
-
-### To Cite the Work
-
-Please cite the paper as:
-@article{
-
-title={Towards Accurate AI-Driven ItihashQA: A Conversational Question Answering System Applied in Bangladeshi Historical Context},
-
-author={Das Himu, Arabindo and Azad, Md Shawmoon and Rahman, Raiyan and Hasan, Mohammed Rakibul and Momen, Sifat},
-
-journal={ArXiv},
-
-year={2026}
-
-}
+*   Md Shawmoon Azad: shawmoonazad.azad@northsouth.edu
